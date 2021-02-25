@@ -28,6 +28,7 @@ public class Ejercicio1Selección66659 {
         System.out.println("Escriba el segundo número: ");
         numero2 = sc.nextInt();
         
+        
         System.out.println("Escriba el tercer número: ");
         numero3 = sc.nextInt();
         
